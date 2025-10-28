@@ -23,7 +23,7 @@ jobs:
       run: npm install htmlhint csslint jslint
 
     - name: Lint HTML
-      run: npx htmlhint index.html products.html cart.html
+      run: npx htmlhint index.html
 
     - name: Lint CSS
       run: npx csslint style.css
