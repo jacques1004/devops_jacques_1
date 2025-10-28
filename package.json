@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "csslint": "^1.0.5",
+    "htmlhint": "^1.7.1",
+    "jslint": "^0.12.1"
+  }
+}
